@@ -1,5 +1,4 @@
 function isPalindrome(word) {
-  // Write your algorithm here
   if(word.length < 2) return true
 
   let start = 0
